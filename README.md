@@ -1,3 +1,3 @@
 Assalamualaikum Semuanya....
 
-sequence portfolio with css preprocessor 
+portfolio with css preprocessor 
